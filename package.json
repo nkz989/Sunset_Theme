@@ -1,0 +1,21 @@
+{
+    "name": "sunset",
+    "displayName": "sunset",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "nk's theme",
+                "uiTheme": "vs",
+                "path": "./themes/nk-color-theme.json"
+            }
+        ]
+    }
+}
